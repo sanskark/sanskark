@@ -1,16 +1,13 @@
-### Hi there 👋
+#### 👋 Hello World, I'm Sanskar Khunt
+> Software Engineer Who loves to work at backend technologies and also Game Development(Quite complicated), etc..
 
-<!--
-**sanskark/sanskark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Let's look at my languages
+>
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+#### Here's the top projects
+> 
+>[![Bike Rental System](https://github-readme-stats.vercel.app/api/pin/?username=sanskark&repo=bike-rental-system)](https://github.com/anuraghazra/github-readme-stats)
+>[![Linked List Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=sanskark&repo=linked-list-visualizer)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
